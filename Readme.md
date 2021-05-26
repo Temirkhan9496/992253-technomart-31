@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Temirkhan Saidov](https://up.htmlacademy.ru/htmlcss/31/user/992253).
-* Наставник: [Виктор Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
+* Наставник: [Виктор :-) Рыбаков](https://htmlacademy.ru/profile/viktor-rybakov).
 
 ---
 
